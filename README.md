@@ -29,13 +29,6 @@ C programlama diliyle yazılmıştır. Öğrenme sürecinde geliştirilmiş, eğ
 ```bash
 git clone https://github.com/mcanerarslan/sayi-tahmini.git
 cd sayi-tahmini
-
-## ⚙️ Nasıl Çalıştırılır?
-
-### 1. Repozitory'yi klonlayın:
-```bash
-git clone https://github.com/mcanerarslan/sayi-tahmini.git
-cd sayi-tahmini
 ```
 
 ### 2. Derleyin:
