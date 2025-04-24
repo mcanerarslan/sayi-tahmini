@@ -33,3 +33,4 @@ gcc main.c -o sayi-tahmini
 ```bash
 ./sayi-tahmini
 ```
+📌 Not: Commitlerin bir kısmı ikinci hesabım olan `dyanesa` üzerinden yapılmıştır. İki hesap da bana aittir.
