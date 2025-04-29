@@ -11,6 +11,7 @@ C programlama diliyle yazılmıştır. Öğrenme sürecinde geliştirilmiş, eğ
 - 🎮 Zorluk seçimi (Kolay, Orta, Zor)
 - ❤️ Can sistemi (3 hakkınız var)
 - 💬 Geri bildirim (Daha büyük / Daha küçük)
+- 🔁 Oyun sonunda tekrar oynama seçeneği sunar
 - 🏆 Doğru tahminde:
   - 🎉 Kutlama mesajı
   - 💰 Para 2 katına çıkar
